@@ -11,3 +11,18 @@ body {
     font-family: 'Open Sans', sans-serif;
     min-height: 100vh;
 }
+
+/* Header */
+.header-container {
+    background-color: #1f2937;
+    color: whitesmoke;
+}
+
+.nav-container {
+    border: 2px solid red;
+    width: 960px;
+}
+
+.navbar {
+    display: flex
+}
