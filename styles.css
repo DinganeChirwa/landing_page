@@ -20,9 +20,23 @@ header {
 
 .nav-container {
     border: 2px solid red;
-    width: 960px;
+    display: flex;
+    justify-content: center;
 }
 
 .navbar {
-    display: flex
+    border: 2px solid white;
+    width: 970px;
+    padding: 0 8px;
+    display: flex;
+}
+
+.logo {
+    border: 2px solid yellow;
+
+}
+
+.links {
+    border: 2px solid green;
+    margin-left: auto;
 }
