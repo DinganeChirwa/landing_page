@@ -62,5 +62,52 @@ header {
 .company-image img {
     width: 500px;
     height: auto;
-    border-radius: ;
+}
+
+.description {
+    width: 500px;
+}
+
+.slogan {
+    font-size: 48px;
+    font-weight: bolder;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+.blurb {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-bottom: 15px;
+}
+
+button {
+    background-color: #3882f6;
+    width: 150px;
+    height: 38px;
+    border-radius: 8px;
+    color: white;
+    font-size: 18px;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.description-container {
+    border: 2px solid green;
+    display: flex;
+    justify-content: center;
+}
+
+.company-details {
+    border: 2px solid white;
+    display: flex;
+    justify-content: space-between;
+    width: 1424px;
+    padding: 0 8px;
+}
+
+.company-image {       
+    align-self: center;
 }
