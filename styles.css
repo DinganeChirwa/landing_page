@@ -10,12 +10,12 @@ body {
     background-color: #f7f7f5;
     font-family: 'Open Sans', sans-serif;
     min-height: 100vh;
+    color: whitesmoke;
 }
 
 /* Header */
 header {
     background-color: #1f2937;
-    color: whitesmoke;
 }
 
 .nav-container {
@@ -39,4 +39,10 @@ header {
 .links {
     border: 2px solid green;
     margin-left: auto;
+}
+
+.links ul {
+    list-style: none;
+    display: flex;   
+    gap: 16px;
 }
