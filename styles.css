@@ -95,13 +95,13 @@ button {
 }
 
 .description-container {
-    border: 2px solid green;
+    /* border: 2px solid green; */
     display: flex;
     justify-content: center;
 }
 
 .company-details {
-    border: 2px solid white;
+    /* border: 2px solid white; */
     display: flex;
     justify-content: space-between;
     width: 1424px;
