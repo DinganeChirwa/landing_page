@@ -57,3 +57,10 @@ header {
     color: #e5e7eb;
     font-size: 18px;
 }
+
+/* Company Description Section */
+.company-image img {
+    width: 500px;
+    height: auto;
+    border-radius: ;
+}
