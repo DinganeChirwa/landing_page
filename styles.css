@@ -19,28 +19,28 @@ header {
 }
 
 .nav-container {
-    border: 2px solid red;
+    /* border: 2px solid red; */
     padding: 20px 0;
     display: flex;
     justify-content: center;
 }
 
 .navbar {
-    border: 2px solid white;
-    width: 960px;
+    /* border: 2px solid white; */
+    width: 1424px;
     padding: 0 8px;
     display: flex;
 }
 
 .logo {
-    border: 2px solid yellow;
+    /* border: 2px solid yellow; */
     font-size: 24px;
     color: #f9faf8;
     font-weight: 800;
 }
 
 .links {
-    border: 2px solid green;
+    /* border: 2px solid green; */
     margin-left: auto;  
     display: flex;
     align-items: center;  
@@ -50,4 +50,10 @@ header {
     list-style: none;
     display: flex;   
     gap: 16px;
+}
+
+.links a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
 }
