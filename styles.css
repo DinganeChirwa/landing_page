@@ -112,3 +112,8 @@ button {
 .company-image {       
     align-self: center;
 }
+
+.services {
+    background-color: #ffffff;
+    padding: 50px;
+}
