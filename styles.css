@@ -114,7 +114,37 @@ button {
 }
 
 .services {
-    border: 5px solid red;
+    /* border: 5px solid red; */
+    padding: 32px;
     color: #1f2937;
-    background-color: #ffffff;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: bolder;
+    margin-bottom: 32PX;
+}
+
+.services-container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+.service img {
+    width: 200px;
+    height: 200px;
+    border-radius: 12px;
+}
+
+.service {
+    max-width: 200px;
+}
+
+/* Testimonial Section */
+.testimonial-container {
+    background-color: #e5e7eb;
+    color: #1f2937;
 }
