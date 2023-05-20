@@ -165,9 +165,25 @@ button {
 .testimonial-one {
     /* border: 5px solid red; */
     display: flex;
-    flex-direction: column;
+    flex-direction: column;    
 }
 
 .name {
     align-self: flex-end;
+}
+
+/* Call to action */
+.action-container {
+    border: 5px solid red;
+    background-color: #f7f7f5;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background {
+    background-color: #3882f6;
+    width: 1242px;
+    border-radius: 16px;
 }
