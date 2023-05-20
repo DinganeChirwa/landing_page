@@ -145,14 +145,29 @@ button {
 
 /* Testimonial Section */
 .testimonial-container {
+    /* border: 5px solid red; */
     background-color: #e5e7eb;
     color: #1f2937;
+    padding: 50px;
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
 }
 
 .testimonial {
     width: 900px;
+    margin-bottom: 16px;
     font-size: 36px;
     font-style: italic;
+}
+
+.testimonial-one {
+    /* border: 5px solid red; */
+    display: flex;
+    flex-direction: column;
+}
+
+.name {
+    align-self: flex-end;
 }
