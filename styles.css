@@ -21,28 +21,24 @@ header {
 }
 
 .nav-container {
-    /* border: 2px solid red; */
     padding: 20px 0;
     display: flex;
     justify-content: center;
 }
 
 .navbar {
-    /* border: 2px solid white; */
     width: 1424px;
     padding: 0 8px;
     display: flex;
 }
 
 .logo {
-    /* border: 2px solid yellow; */
     font-size: 24px;
     color: #f9faf8;
     font-weight: 800;
 }
 
 .links {
-    /* border: 2px solid green; */
     margin-left: auto;  
     display: flex;
     align-items: center;  
@@ -97,13 +93,11 @@ button {
 }
 
 .description-container {
-    /* border: 2px solid green; */
     display: flex;
     justify-content: center;
 }
 
 .company-details {
-    /* border: 2px solid white; */
     display: flex;
     justify-content: space-between;
     width: 1424px;
@@ -116,7 +110,6 @@ button {
 }
 
 .services {
-    /* border: 5px solid red; */
     padding: 32px;
     color: #1f2937;
     background-color: whitesmoke;
@@ -147,7 +140,6 @@ button {
 
 /* Testimonial Section */
 .testimonial-container {
-    /* border: 5px solid red; */
     background-color: #e5e7eb;
     color: #1f2937;
     padding: 50px;
@@ -165,7 +157,6 @@ button {
 }
 
 .testimonial-one {
-    /* border: 5px solid red; */
     display: flex;
     flex-direction: column;    
 }
@@ -176,7 +167,6 @@ button {
 
 /* Call to action */
 .action-container {
-    /* border: 5px solid red; */
     background-color: #f7f7f5;
     padding: 50px;
     display: flex;
@@ -192,18 +182,15 @@ button {
 }
 
 .action-info {
-    /* border: 5px solid red; */
     display: flex;
 }
 
 .newsletter .title {
-    /* border: 5px solid green; */
     margin-bottom: 0;
     padding: 0 0;
 }
 
 .newsletter p {
-    /* border: 5px solid yellow; */
     font-size: 18px;
 }
 
