@@ -174,7 +174,7 @@ button {
 
 /* Call to action */
 .action-container {
-    border: 5px solid red;
+    /* border: 5px solid red; */
     background-color: #f7f7f5;
     padding: 50px;
     display: flex;
@@ -186,4 +186,32 @@ button {
     background-color: #3882f6;
     width: 1242px;
     border-radius: 16px;
+    padding: 36px 100px;
+}
+
+.action-info {
+    /* border: 5px solid red; */
+    display: flex;
+}
+
+.newsletter {
+    /* border: 5px solid red; */
+}
+
+.newsletter .title {
+    /* border: 5px solid green; */
+    margin-bottom: 0;
+    padding: 0 0;
+}
+
+.newsletter p {
+    /* border: 5px solid yellow; */
+    font-size: 18px;
+}
+
+.sign-up {
+    border: 3px solid #ffffff;
+    font-size: 14px;
+    margin-left: auto;
+    align-self: center;
 }
