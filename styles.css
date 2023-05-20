@@ -194,10 +194,6 @@ button {
     display: flex;
 }
 
-.newsletter {
-    /* border: 5px solid red; */
-}
-
 .newsletter .title {
     /* border: 5px solid green; */
     margin-bottom: 0;
@@ -214,4 +210,13 @@ button {
     font-size: 14px;
     margin-left: auto;
     align-self: center;
+}
+
+footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
